@@ -41,8 +41,8 @@
   },
   "background": {
     "url": "https://images8.alphacoders.com/767/767470.jpg",
-    "blur": 5,
-    "alpha": 1
+    "blur": 0.5,
+    "alpha": 0.7
   },
   "spec": 2,
   "createdAt": "2025-10-05",
