@@ -1,8 +1,9 @@
-{
+  "source": "local"
+}{
   "id": "anime-theme-1757195689700",
   "filename": "anime-theme.json",
-  "name": "Anime Theme",
-  "description": "The original dark theme of Discord merged to an anime theme",
+  "name": "Anime Theme (Edited)",
+  "description": "Custom background and channel sidebar color.",
   "authors": [
     {
       "name": "wiwiichan",
@@ -14,18 +15,31 @@
     "BACKGROUND_SECONDARY": ["#000000"],
     "BACKGROUND_TERTIARY": ["#000000"],
     "BACKGROUND_ACCENT": ["#000000"],
-    "BACKGROUND_MODIFIER_HOVER": ["#ffffff"],
-    "BACKGROUND_MODIFIER_ACTIVE": ["#ffffff"],
-    "BACKGROUND_MODIFIER_SELECTED": ["#ffffff"],
+    "BACKGROUND_MODIFIER_HOVER": ["#ffffff0d"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#ffffff1a"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#ffffff26"],
+
+    "CHANNELS_DEFAULT": ["#ff0000"],
+    "CHANNEL_ICON": ["#ff0000"],
+    "CHANNELS_SELECTED_TEXT": ["#ffffff"],
+    "CHANNELS_SELECTED_BACKGROUND": ["#1a0000"],
+
+    "GUILD_LIST_BACKGROUND": ["#000000"],
+    "SIDEBAR_BACKGROUND": ["#000000"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#000000"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#000000"],
+
     "TEXT_NORMAL": ["#ffffff"],
     "TEXT_LINK": ["#00b0f4"],
+    "TEXT_MUTED": ["#888888"],
     "HEADER_PRIMARY": ["#ffffff"],
     "HEADER_SECONDARY": ["#b9bbbe"],
-    "CHANNELS_DEFAULT": ["#ff0000"],
+
     "INTERACTIVE_NORMAL": ["#8e9297"],
-    "INTERACTIVE_HOVER": ["#ffffff"],
+    "INTERACTIVE_HOVER": ["#ffffff33"],
     "INTERACTIVE_ACTIVE": ["#5865f2"],
     "INTERACTIVE_MUTED": ["#4f545c"],
+
     "CARD_PRIMARY_BG": ["#000000"],
     "CARD_SECONDARY_BG": ["#000000"]
   },
@@ -34,8 +48,6 @@
     "LINK": "#00b0f4",
     "WHITE_500": "#ffffff",
     "BLACK_500": "#000000",
-    "GRADIENT_PRIMARY": "rgb(3,169,244)",
-    "GRADIENT_SECONDARY": "rgb(63,81,181)",
     "TINT_COLOUR": "rgb(255,51,159)"
   },
   "background": {
