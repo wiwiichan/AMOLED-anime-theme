@@ -10,13 +10,13 @@
     }
   ],
   "semanticColors": {
-    "BACKGROUND_PRIMARY": ["#000000b3"],
-    "BACKGROUND_SECONDARY": ["#00000099"],
-    "BACKGROUND_TERTIARY": ["#00000066"],
+    "BACKGROUND_PRIMARY": ["#000000"],
+    "BACKGROUND_SECONDARY": ["#000000"],
+    "BACKGROUND_TERTIARY": ["#000000"],
     "BACKGROUND_ACCENT": ["#3a82f6"],
-    "BACKGROUND_MODIFIER_HOVER": ["#ffffff1a"],
-    "BACKGROUND_MODIFIER_ACTIVE": ["#ffffff1f"],
-    "BACKGROUND_MODIFIER_SELECTED": ["#ffffff26"],
+    "BACKGROUND_MODIFIER_HOVER": ["#ffffff"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#ffffff"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#ffffff"],
     "TEXT_NORMAL": ["#ffffff"],
     "TEXT_SECONDARY": ["#b0b0b0"],
     "TEXT_LINK": ["#00b0f4"],
@@ -24,11 +24,11 @@
     "HEADER_SECONDARY": ["#b9bbbe"],
     "CHANNELS_DEFAULT": ["#8e9297"],
     "INTERACTIVE_NORMAL": ["#8e9297"],
-    "INTERACTIVE_HOVER": ["#ffffff33"],
+    "INTERACTIVE_HOVER": ["#ffffff"],
     "INTERACTIVE_ACTIVE": ["#5865f2"],
     "INTERACTIVE_MUTED": ["#4f545c"],
-    "CARD_PRIMARY_BG": ["#00000080"],
-    "CARD_SECONDARY_BG": ["#00000066"]
+    "CARD_PRIMARY_BG": ["#000000"],
+    "CARD_SECONDARY_BG": ["#000000"]
   },
   "rawColors": {
     "BRAND_500": "#5865f2",
