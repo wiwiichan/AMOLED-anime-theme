@@ -18,11 +18,10 @@
     "BACKGROUND_MODIFIER_ACTIVE": ["#ffffff"],
     "BACKGROUND_MODIFIER_SELECTED": ["#ffffff"],
     "TEXT_NORMAL": ["#ffffff"],
-    "TEXT_SECONDARY": ["#b0b0b0"],
     "TEXT_LINK": ["#00b0f4"],
     "HEADER_PRIMARY": ["#ffffff"],
     "HEADER_SECONDARY": ["#b9bbbe"],
-    "CHANNELS_DEFAULT": ["#8e9297"],
+    "CHANNELS_DEFAULT": ["#ff0000"],
     "INTERACTIVE_NORMAL": ["#8e9297"],
     "INTERACTIVE_HOVER": ["#ffffff"],
     "INTERACTIVE_ACTIVE": ["#5865f2"],
@@ -42,7 +41,7 @@
   "background": {
     "url": "https://images8.alphacoders.com/767/767470.jpg",
     "blur": 0.5,
-    "alpha": 0.7
+    "alpha": 0.5
   },
   "spec": 2,
   "createdAt": "2025-10-05",
