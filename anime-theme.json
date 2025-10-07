@@ -4,174 +4,63 @@
   "name": "AMOLED anime theme",
   "description": "Custom background and channel sidebar color.",
   "authors": [
-    {
-      "name": "wiwiichan",
-      "id": "725075745671479296"
-    }
+    { "name": "wiwiichan", "id": "725075745671479296" }
   ],
   "semanticColors": {
-    "BACKGROUND_TERTIARY": [
-      "#000000"
-    ],
-    "BACKGROUND_ACCENT": [
-      "#141414"
-    ],
-    "DIVIDER_STRONG": [
-      "#000000"
-    ],
-    "DIVIDER_SUBTLE": [
-      "#000000"
-    ],
-    "BORDER_SUBTLE": [
-      "#000000"
-    ],
-    "SPINE_DEFAULT": [
-      "#000000"
-    ],
-    "SPOILER_HIDDEN_BACKGROUND": [
-      "#141414"
-    ],
-    "SPOILER_REVEALED_BACKGROUND": [
-      "#141414"
-    ],
-    "STAGE_CARD_PILL_BG": [
-      "#000000"
-    ],
-    "STATUS_DANGER": [
-      "#000000"
-    ],
-    "STATUS_DANGER_BACKGROUND": [
-      "#000000"
-    ],
-    "STATUS_DANGER_TEXT": [
-      "#FFFFFF"
-    ],
-    "STATUS_DND": [
-      "#880808"
-    ],
-    "STATUS_IDLE": [
-      "#FFF200"
-    ],
-    "STATUS_OFFLINE": [
-      "#222222"
-    ],
-    "STATUS_ONLINE": [
-      "#32CD32"
-    ],
-    "STATUS_POSITIVE": [
-      "#000000"
-    ],
-    "STATUS_POSITIVE_BACKGROUND": [
-      "#000000"
-    ],
-    "STATUS_POSITIVE_TEXT": [
-      "#FFFFFF"
-    ],
-    "STATUS_SPEAKING": [
-      "#000000"
-    ],
-    "STATUS_WARNING": [
-      "#FFFFFF"
-    ],
-    "STATUS_WARNING_BACKGROUND": [
-      "#000000"
-    ],
-    "STATUS_WARNING_TEXT": [
-      "#FFFFFF"
-    ],
-    "TEXT_BRAND": [
-      "#FFFFFF"
-    ],
-    "TEXT_DANGER": [
-      "#FFFFFF"
-    ],
-    "TEXT_LINK": [
-      "#009AFF"
-    ],
-    "TEXT_LINK_LOW_SATURATION": [
-      "#009AFF"
-    ],
-    "TEXT_LOW_CONTRAST": [
-      "#FFFFFF"
-    ],
-    "TEXT_MESSAGE_PREVIEW_LOW_SAT": [
-      "#FFFFFF"
-    ],
-    "TEXT_MUTED": [
-      "#7f7f7f"
-    ],
-    "TEXT_MUTED_ON_DEFAULT": [
-      "#FFFFFF"
-    ],
-    "TEXT_NORMAL": [
-      "#FFFFFF"
-    ],
-    "TEXT_POSITIVE": [
-      "#FFFFFF"
-    ],
-    "TEXT_PRIMARY": [
-      "#FFFFFF"
-    ],
-    "TEXT_SECONDARY": [
-      "#FFFFFF"
-    ],
-    "TEXT_WARNING": [
-      "#FFFFFF"
-    ],
-    "THEME_LOCKED_BLUR_FALLBACK": [
-      "#000000"
-    ],
-    "THREAD_CHANNEL_SPINE": [
-      "#FFFFFF"
-    ],
-    "TOAST_BG": [
-      "#000000"
-    ],
-    "TYPING_INDICATOR_BG": [
-      "#000000"
-    ],
-    "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
-      "#000000"
-    ],
-    "VOICE_VIDEO_VIDEO_TILE_BACKGROUND": [
-      "#000000"
-    ],
-    "VOICE_VIDEO_VIDEO_TILE_BLUR_FALLBACK": [
-      "#000000"
-    ],
-    "WHITE": [
-      "#FFFFFF"
-    ],
-    "SCROLLBAR_THIN_THUMB": [
-      "#FFFFFF"
-    ],
-    "SCROLLBAR_THIN_TRACK": [
-      "#000000"
-    ],
-    "SCROLLBAR_AUTO_THUMB": [
-      "#FFFFFF"
-    ],
-    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
-      "#000000"
-    ],
-    "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#000000"
-    ],
-    "SCROLLBAR_AUTO_TRACK": [
-      "#FFFFFF"
-    ],
-    "REDESIGN_INPUT_CONTROL_SELECTED": [
-      "#141414"
-    ],
-    "BACKGROUND_SECONDARY": [
-      "#000000"
-    ],
-    "BACKGROUND_MODIFIER_ACCENT": [
-      "#141414"
-    ],
-    "INTERACTIVE_MUTED": [
-      "#141414"
-    ]
+    "BACKGROUND_TERTIARY": ["#000000"],
+    "BACKGROUND_ACCENT": ["#141414"],
+    "DIVIDER_STRONG": ["#000000"],
+    "DIVIDER_SUBTLE": ["#000000"],
+    "BORDER_SUBTLE": ["#000000"],
+    "SPINE_DEFAULT": ["#000000"],
+    "SPOILER_HIDDEN_BACKGROUND": ["#141414"],
+    "SPOILER_REVEALED_BACKGROUND": ["#141414"],
+    "STAGE_CARD_PILL_BG": ["#000000"],
+    "STATUS_DANGER": ["#000000"],
+    "STATUS_DANGER_BACKGROUND": ["#000000"],
+    "STATUS_DANGER_TEXT": ["#FFFFFF"],
+    "STATUS_DND": ["#880808"],
+    "STATUS_IDLE": ["#FFF200"],
+    "STATUS_OFFLINE": ["#222222"],
+    "STATUS_ONLINE": ["#32CD32"],
+    "STATUS_POSITIVE": ["#000000"],
+    "STATUS_POSITIVE_BACKGROUND": ["#000000"],
+    "STATUS_POSITIVE_TEXT": ["#FFFFFF"],
+    "STATUS_SPEAKING": ["#000000"],
+    "STATUS_WARNING": ["#FFFFFF"],
+    "STATUS_WARNING_BACKGROUND": ["#000000"],
+    "STATUS_WARNING_TEXT": ["#FFFFFF"],
+    "TEXT_BRAND": ["#FFFFFF"],
+    "TEXT_DANGER": ["#FFFFFF"],
+    "TEXT_LINK": ["#009AFF"],
+    "TEXT_LINK_LOW_SATURATION": ["#009AFF"],
+    "TEXT_LOW_CONTRAST": ["#FFFFFF"],
+    "TEXT_MESSAGE_PREVIEW_LOW_SAT": ["#FFFFFF"],
+    "TEXT_MUTED": ["#7f7f7f"],
+    "TEXT_MUTED_ON_DEFAULT": ["#FFFFFF"],
+    "TEXT_NORMAL": ["#FFFFFF"],
+    "TEXT_POSITIVE": ["#FFFFFF"],
+    "TEXT_PRIMARY": ["#FFFFFF"],
+    "TEXT_SECONDARY": ["#FFFFFF"],
+    "TEXT_WARNING": ["#FFFFFF"],
+    "THEME_LOCKED_BLUR_FALLBACK": ["#000000"],
+    "THREAD_CHANNEL_SPINE": ["#FFFFFF"],
+    "TOAST_BG": ["#000000"],
+    "TYPING_INDICATOR_BG": ["#000000"],
+    "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": ["#000000"],
+    "VOICE_VIDEO_VIDEO_TILE_BACKGROUND": ["#000000"],
+    "VOICE_VIDEO_VIDEO_TILE_BLUR_FALLBACK": ["#000000"],
+    "WHITE": ["#FFFFFF"],
+    "SCROLLBAR_THIN_THUMB": ["#FFFFFF"],
+    "SCROLLBAR_THIN_TRACK": ["#000000"],
+    "SCROLLBAR_AUTO_THUMB": ["#FFFFFF"],
+    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": ["#000000"],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": ["#000000"],
+    "SCROLLBAR_AUTO_TRACK": ["#FFFFFF"],
+    "REDESIGN_INPUT_CONTROL_SELECTED": ["#141414"],
+    "BACKGROUND_SECONDARY": ["#000000"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#141414"],
+    "INTERACTIVE_MUTED": ["#141414"]
   },
   "rawColors": {
     "BLACK_500": "#00000050",
