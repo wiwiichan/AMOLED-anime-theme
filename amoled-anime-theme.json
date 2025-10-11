@@ -1,8 +1,8 @@
 {
-  "id": "black-anime-theme-1757195689700",
-  "filename": "black-anime-theme.json",
+  "id": "amoled-anime-theme-1757195689700",
+  "filename": "amoled-anime-theme.json",
   "name": "AMOLED anime theme",
-  "description": "Custom background and channel sidebar color.",
+  "description": "AMOLED Rem theme",
   "authors": [
     { "name": "wiwiichan", "id": "725075745671479296" }
   ],
@@ -117,9 +117,9 @@
     "PLUM_24": "#000000"
   },
   "background": {
-    "url": "https://cdn.discordapp.com/attachments/1402745224614383616/1425356440738070558/rem.jpg?ex=68e74a21&is=68e5f8a1&hm=90f1277f1c11e863defcdbc7619b8221243d311d559699b9aaad003f346b8641&",
+    "url": "https://raw.githubusercontent.com/wiwiichan/AMOLED-anime-theme/refs/heads/main/rem.jpg",
     "blur": 0.5,
-    "alpha": 0.5,
+    "alpha": 1,
     "size": "cover",
     "position": "center"
   },
