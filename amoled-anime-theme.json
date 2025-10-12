@@ -1,10 +1,11 @@
 {
-  "id": "amoled-anime-theme-1757195689700",
-  "filename": "amoled-anime-theme.json",
   "name": "AMOLED anime theme",
   "description": "AMOLED Rem theme",
   "authors": [
-    { "name": "wiwiichan", "id": "725075745671479296" }
+    {
+      "name": "wiwiichan",
+      "id": "725075745671479296"
+    }
   ],
   "semanticColors": {
     "BACKGROUND_TERTIARY": ["#000000"],
@@ -126,6 +127,5 @@
   },
   "spec": 2,
   "createdAt": "2025-10-05",
-  "previewUrl": "https://raw.githubusercontent.com/wiwiichan/AMOLED-anime-theme/refs/heads/main/previewUrl.jpg",
   "source": "local"
 }
