@@ -237,8 +237,7 @@
   },
   "plus": {
     "version": "0",
-    "iconPack": "solar",
-    "customOverlays": "true"
+    "iconPack": "solar-plumpy"
   },
   "spec": 2,
   "createdAt": "2025-10-05",
