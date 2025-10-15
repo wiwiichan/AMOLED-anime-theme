@@ -235,11 +235,11 @@
     "size": "cover",
     "position": "center"
   },
-  "spec": 2,
-  "createdAt": "2025-10-05",
-  "source": "local",
   "plus": {
     "version": "0",
-    "iconPack": "solar"
+    "iconpack": "solar"
   },
+  "spec": 2,
+  "createdAt": "2025-10-05",
+  "source": "local"
 }
