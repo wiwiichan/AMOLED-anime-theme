@@ -172,14 +172,20 @@
     ],
     "CHAT_INPUT_CONTAINER_BACKGROUND": [
       "#000000"
+    ],
+    "NOTIFCATION_BADGE": [
+      "#ff6161"
+    ],
+    "MENTION_BADGE": [
+      "#ff6161"
     ]
   },
   "rawColors": {
     "BLACK_500": "#00000050",
     "BRAND_260": "#FFFFFF",
     "BRAND_360": "#FFFFFF",
-    "BRAND_560": "#ff6161",
-    "BRAND_500": "#ff6161",
+    "BRAND_560": "#000000",
+    "BRAND_500": "#121212",
     "ORANGE_260": "#FFFFFF",
     "ORANGE_300": "#FFFFFF",
     "ORANGE_330": "#FFFFFF",
