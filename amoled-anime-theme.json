@@ -175,6 +175,9 @@
     ],
     "NOTIFICATION_BADGE": [
       "#ff6161"
+    ],
+    "TAB_BADGE": [
+      "#ff6161"
     ]
   },
   "rawColors": {
