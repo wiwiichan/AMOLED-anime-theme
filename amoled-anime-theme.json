@@ -173,18 +173,6 @@
     "CHAT_INPUT_CONTAINER_BACKGROUND": [
       "#000000"
     ],
-    "NOTIFICATION_BADGE": [
-      "#ff6161"
-    ],
-    "REDESIGN_TAB_BADGE_UNREAD": [
-      "#ff6161"
-    ],
-    "REDESIGN_TAB_BADGE": [
-      "#ff6161"
-    ],
-    "TAB_BADGE": [
-      "#ff6161"
-    ],
     "MENTION_BADGE": [
       "#ff6161"
     ]
@@ -194,7 +182,7 @@
     "BRAND_260": "#FFFFFF",
     "BRAND_360": "#FFFFFF",
     "BRAND_560": "#000000",
-    "BRAND_500": "",
+    "BRAND_500": "#121212",
     "ORANGE_260": "#FFFFFF",
     "ORANGE_300": "#FFFFFF",
     "ORANGE_330": "#FFFFFF",
@@ -235,7 +223,7 @@
     "PRIMARY_560": "#000000",
     "PRIMARY_600": "#000000",
     "PRIMARY_630": "#000000",
-    "PLUM_15": "#121212",
+    "PLUM_15": "",
     "PLUM_17": "#000000",
     "PLUM_18": "#000000",
     "PLUM_19": "#000000",
