@@ -178,6 +178,15 @@
     ],
     "REDESIGN_TAB_BADGE_UNREAD": [
       "#ff6161"
+    ],
+    "REDESIGN_TAB_BADGE": [
+      "#ff6161"
+    ],
+    "TAB_BADGE": [
+      "#ff6161"
+    ],
+    "MENTION_BADGE": [
+      "#ff6161"
     ]
   },
   "rawColors": {
