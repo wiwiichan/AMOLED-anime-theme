@@ -172,9 +172,6 @@
     ],
     "CHAT_INPUT_CONTAINER_BACKGROUND": [
       "#000000"
-    ],
-    "MENTION_BADGE": [
-      "#ff6161"
     ]
   },
   "rawColors": {
@@ -223,7 +220,7 @@
     "PRIMARY_560": "#000000",
     "PRIMARY_600": "#000000",
     "PRIMARY_630": "#000000",
-    "PLUM_15": "",
+    "PLUM_15": "#121212",
     "PLUM_17": "#000000",
     "PLUM_18": "#000000",
     "PLUM_19": "#000000",
