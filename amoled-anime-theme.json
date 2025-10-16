@@ -172,6 +172,12 @@
     ],
     "CHAT_INPUT_CONTAINER_BACKGROUND": [
       "#000000"
+    ],
+    "MENTION_BADGE": [
+      "#ff6161"
+    ],
+    "REDESIGN_MENTION_BADGE": [
+      "#ff6161"
     ]
   },
   "rawColors": {
