@@ -175,9 +175,6 @@
     ],
     "NOTIFICATION_BADGE": [
       "#ff6161"
-    ],
-    "MENTION_BADGE": [
-      "#ff6161"
     ]
   },
   "rawColors": {
