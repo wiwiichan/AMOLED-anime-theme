@@ -173,7 +173,10 @@
     "CHAT_INPUT_CONTAINER_BACKGROUND": [
       "#000000"
     ],
-    "NOTIFCATION_BADGE": [
+    "NOTIFICATION_BADGE": [
+      "#ff6161"
+    ],
+    "MENTION_BADGE": [
       "#ff6161"
     ]
   },
